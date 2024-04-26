@@ -1,6 +1,5 @@
 # Description
 This repository contains the code and data for simulating the Generalized XY (GXY) Model in two Euclidean dimensions using Tensor Renormalization Group (TRG) technique. We are using HOTRG (Higher Order Tensor Renormalization Group) method to study the phase structure. It is also available at https://zenodo.org/record/10999416
-12
 
 
 The Hamiltonian for this model is given by,
