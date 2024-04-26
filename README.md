@@ -1,5 +1,7 @@
 # Description
-This repository contains the code and data for simulating the Generalized XY (GXY) Model in two Euclidean dimensions using Tensor Renormalization Group (TRG) technique. We are using HOTRG (Higher Order Tensor Renormalization Group) method to study the phase structure. It is also available at 10.5281/zenodo.10999416
+This repository contains the code and data for simulating the Generalized XY (GXY) Model in two Euclidean dimensions using Tensor Renormalization Group (TRG) technique. We are using HOTRG (Higher Order Tensor Renormalization Group) method to study the phase structure. It is also available at https://zenodo.org/record/10999416
+12
+
 
 The Hamiltonian for this model is given by,
 $$\mathcal{H} = -\left[\Delta \sum_{\langle j k \rangle} \cos{(\theta_j - \theta_k)} + (1-\Delta) \sum_{\langle j k \rangle} \cos{(q(\theta_j - \theta_k))} + h \sum_j \cos{(\theta_j)} + h_1\sum_j \cos{(q\theta_j)}\right]$$
@@ -9,7 +11,7 @@ where, $\Delta \in [0,1]$ is called the deformation parameter. $h$ and $h_1$ are
 # Contents
 The file ```main.py``` contains the routines to use HOTRG algorithm for tensor networks study of the GXY model.
 
-```data``` directory contains all the simulation data for our article : https://www.arxiv.org/24xx.xxxxx
+```data``` directory contains all the simulation data for the article : https://www.arxiv.org/24xx.xxxxx
 
 # Usage
 The file ```main.py``` requires the following six input parameters,
