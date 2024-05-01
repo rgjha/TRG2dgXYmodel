@@ -10,7 +10,7 @@ where, $\Delta \in [0,1]$ is called the deformation parameter. $h$ and $h_1$ are
 # Contents
 The file ```main.py``` contains the routines to use HOTRG algorithm for tensor networks study of the GXY model.
 
-```data``` directory contains all the simulation data for the article : https://www.arxiv.org/24xx.xxxxx
+```data``` directory contains all the simulation data for the article : https://www.arxiv.org/2404.17504
 
 # Usage
 The file ```main.py``` requires the following six input parameters,
@@ -36,5 +36,19 @@ Use the following command to run the python code,
 ```python3 main.py T h h1 D N Delta```
 
 ## Cite our paper
-We request you to cite our paper if you find this repository helpful.  
+We request you to cite our paper if you find this repository helpful. 
+
+```
+@article{Samlodia:2024kyi,
+    author = "Samlodia, Abhishek and Longia, Vamika and Jha, Raghav G. and Joseph, Anosh",
+    title = "{Phase diagram of generalized XY model using tensor renormalization group}",
+    eprint = "2404.17504",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-lat",
+    month = "4",
+    year = "2024"
+}
+```
+
+ 
 Please send the questions to Raghav Jha (raghav.govind.jha@gmail.com) or Abhishek Samlodia (asamlodia@gmail.com) 
