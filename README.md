@@ -41,11 +41,15 @@ We request you to cite our paper if you find this repository helpful.
 ```
 @article{Samlodia:2024kyi,
     author = "Samlodia, Abhishek and Longia, Vamika and Jha, Raghav G. and Joseph, Anosh",
-    title = "{Phase diagram of generalized XY model using tensor renormalization group}",
+    title = "{Phase diagram of generalized XY model using the tensor renormalization group}",
     eprint = "2404.17504",
     archivePrefix = "arXiv",
     primaryClass = "hep-lat",
-    month = "4",
+    doi = "10.1103/PhysRevD.110.034504",
+    journal = "Phys. Rev. D",
+    volume = "110",
+    number = "3",
+    pages = "034504",
     year = "2024"
 }
 ```
